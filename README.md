@@ -29,7 +29,7 @@ For further clarification on how to run the program in the IDE, I have included 
 
 If running on windows, `./a.exe --help` (or) `./a.exe --h` 
 
-If running on ubuntu, `./a.out --help` (or) `./a.exe --h`
+If running on ubuntu, `./a.out --help` (or) `./a.out --h`
 
 Description of options for simulation - 
 - `-netlist` : specifies netlist file of the circuit to be used. 
@@ -76,7 +76,7 @@ For further clarification on how to run the program in the IDE, I have included 
 
 If running on windows, `./a.exe --help` (or) `./a.exe --h` 
 
-If running on ubuntu, `./a.out --help` (or) `./a.exe –h` 
+If running on ubuntu, `./a.out --help` (or) `./a.out –h` 
 
 Description of options for simulation - 
 - `-netlist` : specifies netlist file of the circuit to be used.  
