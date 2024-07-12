@@ -1,0 +1,8 @@
+011xxxxxxxxxxxx1xxxxxxxx
+111xxxxxxxxxxxx0xxxxxxxx
+11100xxxxx0111x0xxxxxxxx
+01x0000xxx101xx0xxxxxxxx
+01xx000xxx0x1110xxxxxxxx
+01xx101xxx0x01x0xxxxxxxx
+xxxxxx1xxxxxxxxxxxxxxxxx
+101xxxxxxxxxxxx0xxxxxxxx
