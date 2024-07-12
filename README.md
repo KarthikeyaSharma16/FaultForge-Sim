@@ -21,7 +21,7 @@ IDEs used : VS Code, Visual Studio 2022
 The deductive Fault Simulator program has two modes of operation – 
 
  - Mode 0 (considering faults on all the nets of the circuit)
- - Mode B (considering faults only on those nets of the circuit as specified by the end user in the Faults.txt file found under Inputs/Faults.txt directory. 
+ - Mode 1 (considering faults only on those nets of the circuit as specified by the end user in the Faults.txt file found under Inputs/Faults.txt directory. 
 
 For further clarification on how to run the program in the IDE, I have included a help section in the program itself to help the user run it. This can be achieved by compiling the code using gcc command  
 
